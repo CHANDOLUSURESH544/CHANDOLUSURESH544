@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm chandolu suresh</h1>
 <h3 align="center">A passionate frontend developer and ui/ux desiner from India</h3>
 
-- 🔭 I’m currently working on App Design **FaceswapMagic**
+- 🔭 I’m currently working on  **Aapthitech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
